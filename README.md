@@ -1,5 +1,5 @@
-# Homeo_2021
-Homeostatic Plasticity 2021 SFN
+Code for simulation of spiking neural network implemented in the paper Liu et al. 2023, Jneurosci.
 
-Testing the github repository for uploading matlab code for the project analyses and model 
+Creation of Neuronal Ensembles and Cell-Specific Homeostatic Plasticity through Chronic Sparse Optogenetic Stimulation.
+https://www.jneurosci.org/content/43/1/82/tab-article-info
 
