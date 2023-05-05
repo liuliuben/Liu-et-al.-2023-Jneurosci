@@ -1,6 +1,6 @@
 # Creation of neuronal ensembles and cell-specific homeostatic plasticity through chronic sparse optogenetic stimulation
 
-Ben Liu, Michael Seay, Dean V. Buonomano (2022)
+Benjamin Liu, Michael Seay, Dean V. Buonomano (2022)
 
 This github repository is designed to reproduce the figures containing the spiking model results.
 
