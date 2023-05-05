@@ -34,4 +34,5 @@ The spiking model implemented here was heavily based on  the spiking model from:
 
 This code is the product of work carried out in the group of [Dean Buonomano at the University of California Los Angeles](http://www.buonomanolab.com/). If you find our code helpful to your work, consider citing us in your publications:
 
-* Ben Liu, Michael Seay, Dean V. Buonomano. Creation of neuronal ensembles and cell-specific homeostatic plasticity through chronic sparse optogenetic stimulation. 2022.
+* Benjamin Liu, Michael Seay, Dean V. Buonomano. Creation of neuronal ensembles and cell-specific homeostatic plasticity through chronic sparse optogenetic stimulation. 2022.
+https://www.jneurosci.org/content/43/1/82/tab-article-info
